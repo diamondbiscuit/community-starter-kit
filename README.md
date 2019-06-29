@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot is an award winning app that does stuff.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+By using its all new firmware and processor Probot can do stuff. Faster.
 
 ## Getting started
 
